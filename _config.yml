@@ -2,8 +2,6 @@
 markdown:         redcarpet
 highlighter:      pygments
 
-# Permalinks
-permalink:        pretty
 
 # Setup
 title:            Hyde
@@ -17,7 +15,7 @@ author:
   url:            https://twitter.com/mdo
 
 # Custom vars
-version:          2.1.0
+version:          3.2.1
 
 github:
   repo:           https://github.com/mkaszubowski/mkaszubowski.github.io
