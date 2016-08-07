@@ -24,3 +24,20 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 @import "minima";
+
+
+@import url(https://fonts.googleapis.com/css?family=Quicksand:400,300);
+@import url(https://fonts.googleapis.com/css?family=Lato:900,700,400,300,100);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300);
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: $text-color;
+  display: table;
+  margin: 0;
+}
+
+.blog {
+  width: 70%;
+  margin: 0 auto;
+}
