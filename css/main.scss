@@ -2,11 +2,11 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-$base-font-family: "Helvetica Neue";
-$base-font-size:   16px;
+$base-font-family: "Lato";
+$base-font-size:   18px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.75;
 
 $spacing-unit:     30px;
 
@@ -38,6 +38,13 @@ body {
 }
 
 .blog {
-  width: 70%;
+  width: 60%;
   margin: 0 auto;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  line-height: 1.75em;
+
+  h1 {
+    margin: 1em 0;
+  }
 }
