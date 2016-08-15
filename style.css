@@ -80,3 +80,13 @@ h1, h2 {
 .facebook {
   background-image: url('facebook.png');
 }
+
+a.blog-link {
+  position: absolute;
+  right: 35px;
+  top: 25px;
+  color: #fff;
+  text-decoration: none;
+  margin: 0;
+  font-weight: 300;
+}
