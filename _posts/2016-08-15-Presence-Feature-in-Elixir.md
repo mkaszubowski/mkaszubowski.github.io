@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Building Presence feature in Elixir"
-date:   2016-08-02 23:56:27 -0400
+title:  "Building Presence Feature in Elixir"
+date:   2016-08-17 12:05:27 -0400
 categories: elixir
 ---
 
