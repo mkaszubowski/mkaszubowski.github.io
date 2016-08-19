@@ -31,6 +31,7 @@ $on-laptop:        800px;
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300);
 
 body {
+  width: 100%;
   font-family: 'Lato', sans-serif;
   color: $text-color;
   display: table;
@@ -46,5 +47,16 @@ body {
 
   h1 {
     margin: 1em 0;
+  }
+
+  .title {
+      a {
+          text-decoration: none;
+          color: $text-color;
+      }
+  }
+
+  @media screen and (max-width: 600px) {
+    width: 90%;
   }
 }
