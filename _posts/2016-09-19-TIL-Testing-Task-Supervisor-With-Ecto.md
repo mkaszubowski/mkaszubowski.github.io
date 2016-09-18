@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Today I Learned: How to test Task.Supervisor.async_nolink with Ecto 2.0"
-date:   2016-09-18 18:00:00
+date:   2016-09-19 18:00:00
 categories: today-i-learned
 ---
 
