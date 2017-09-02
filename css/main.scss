@@ -45,15 +45,36 @@ body {
   font-size: 18px;
   line-height: 1.75em;
 
+
+  h1, h2, h3, h4, h5, h6, h7 {
+    font-family: 'Roboto Slab', serif;
+  }
+
   h1 {
     margin: 1em 0;
+    font-size: 2.25em;
   }
+
+
+  #post {
+    h2 {
+      margin: 1.0em 0;
+      font-size: 1.5em;
+    }
+  }
+
 
   .title {
       a {
           text-decoration: none;
           color: $text-color;
       }
+  }
+
+  #related {
+    margin-top: 2.5em;
+    padding-top: 2.5em;
+    border-top: 1px solid $grey-color;
   }
 
   @media screen and (max-width: 600px) {
