@@ -119,5 +119,6 @@ in a predictable way to be able to make the error handling simpler.
 
 Of course, I would really like to hear about good use cases for restoring the process state.
 There's no comment box yet, but if you have anything to add, just send me an email
-at [maciej@mkaszubowski.pl](mailto:maciej@mkaszubowski.pl) and I'll be happy to add your comment at the
+at [maciej@mkaszubowski.pl](mailto:maciej@mkaszubowski.pl) or tweet me at [@mkaszubowski94](https://twitter.com/mkaszubowski94)
+and I'll be happy to add your comment at the
 bottom of this article.
