@@ -1,0 +1,76 @@
+---
+---
+
+@import "minima";
+
+@import url('https://fonts.googleapis.com/css?family=Lora|PT+Sant&display=swap');
+
+.wrapper {
+  max-width: -webkit-calc(750px - (30px * 2));
+  max-width: calc(750px - (30px * 2));
+}
+
+.post p, .post ul {
+  margin-bottom: 30px;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+body {
+  font-size: 1.25em;
+  color: #333;
+  line-height: 1.6em;
+  font-weight: 400;
+  font-family: 'Lora';
+  -webkit-font-smoothing: antialiased;
+}
+
+.site-footer a {
+  color: #333;
+  font-size: 0.7em;
+}
+
+.site-footer .svg-icon {
+  padding-right: 0;
+}
+
+.site-footer li {
+  margin-bottom: 0;
+}
+
+.post-list > li {
+  margin-bottom: 0;
+}
+
+a.post-link, a.post-link {
+  color: #333;
+  text-decoration: none;
+}
+
+.site-header {
+  font-family: 'PT Sans';
+}
+
+.post-content {
+  h1 {
+    font-size: 1.75em;
+    margin-top: 1.5em;
+  }
+
+  h2 {
+    font-size: 1.3em;
+    margin-top: 1.5em;
+  }
+}
+
+
+h1, h2, h3 {
+  font-family: 'PT Sans';
+}
+
+.footer-col-2 {
+  width: -webkit-calc(40% - (30px / 2));
+  width: calc(40% - (30px / 2));
+}
