@@ -3,13 +3,14 @@ layout: post
 title:  "A month of remote work - lessons learned"
 date:   2020-04-20 14:00:00 +0100
 tags: remote-work
+canonical_url: https://appunite.com/blog/after-a-month-of-remote-work
 ---
 
 At the time of writing this, the coronavirus pandemic is forcing many us to work from home. After a month of working fully remotely, I think it's a good time to write down some observations and lessons learned during this time.
 
 # Don't simulate the office environment
 
-AppUnite has always been a remote friendly place, but the entire team working fully remotely is a new thing for us.
+[AppUnite](https://appunite.com) has always been a remote friendly place, but the entire team working fully remotely is a new thing for us.
 
 Without much experience with remote work, the first instinct was to try to simulate the office environment. Some people created a Discord channel so that the entire team could be in touch all the time.
 
@@ -66,3 +67,7 @@ The good part is that we're all in this together. If you struggle, show that to 
 I have to say that I really enjoy the remote work. I feel more rested, more effective. I feel that I learned a lot of things that I can use in the future, even when (or *if*) we go back to working from office.
 
 But you may have completely different opinions on remote work. So if there's one thing I'd like you to get from this (and the most important lesson I learned) is to treat all changes and problems as an opportunity to learn something new. Approach things with an open mind and learn to embrace the struggle and you'll be much better off.
+
+---
+
+Originally published on [AppUnite Blog](https://appunite.com/blog/after-a-month-of-remote-work)
