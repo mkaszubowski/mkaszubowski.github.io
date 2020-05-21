@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Big Ideas"
+title:  "The big ideas in software development"
 date:   2018-09-12 21:47:57 +0100
 tags: development design
 ---
