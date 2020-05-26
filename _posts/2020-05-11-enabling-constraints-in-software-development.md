@@ -2,7 +2,7 @@
 layout: post
 title:  "Enabling constraints in software development"
 date:   2020-05-11 09:00:00 +0100
-tags: systems-thinking complexity-thinking
+tags: systems-thinking complexity cynefin
 canonical_url: https://appunite.com/blog/enabling-constraints-in-software-development
 ---
 
