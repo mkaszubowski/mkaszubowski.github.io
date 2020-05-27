@@ -7,7 +7,7 @@ permalink: /about/
 Hello!
 
 I'm Maciej Kaszubowski and I'm a software developer. I specialize in backend
-development with a big focus on **Domain Driven Design**, **modular software design**,
+development with big focus on **Domain Driven Design**, **modular software design**,
 **Elixir/OTP ecosystem**, and distributed systems.
 
 
