@@ -24,5 +24,6 @@ Modular software design is a gold standard of maintainable software design. But 
 
 ## Loose final remarks
 
+- You can find my list of the benefits [here](https://mkaszubowski.com/2020/06/02/modular-software-design-benefits.html)
 - Some of the costs may actually be marginal or even desirable.
 - [Dan North](https://twitter.com/tastapod) introduced a technique called ["Spike and stabilize"](https://youtu.be/USc-yLHXNUg?t=948), which can help to mitigate some of those costs and tradeoffs (starts at 15:50). Start with a code that's not modular to figure things out and then modularize if you intend to stick with the code.

@@ -12,6 +12,10 @@
 
 .post p, .post ul {
   margin-bottom: 30px;
+
+  li > ul {
+    margin-top: 15px;
+  }
 }
 
 li {
