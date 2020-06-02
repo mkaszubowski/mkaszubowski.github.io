@@ -112,6 +112,11 @@ h1, h2, h3 {
   width: calc(40% - (30px / 2));
 }
 
+.post #mc_embed_signup form {
+  font-family: 'PT Sans';
+  padding: 0;
+}
+
 .talks {
   font-size: 1.1em;
 }
