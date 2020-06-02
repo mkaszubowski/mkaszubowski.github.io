@@ -20,6 +20,7 @@ Modular software design is a gold standard of maintainable software design. But 
 - Choosing an interface/contract for each module requires some experience.
 - Fully decoupling different modules from a shared database means loosing referential integrity and not being able to use DB transactions.
 - Modularization and low coupling makes it easier to understand each module in isolation, but it may be harder to understand the entire system.
+- Handling cross-cutting concerns (e.g. observability, privacy policies, authorization) may be harder and more mundane (and the code more scattered across the system.)
 
 ## Loose final remarks
 
