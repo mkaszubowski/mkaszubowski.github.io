@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Decomposing domain models based on life cycles"
+title:  "Decomposing domain models based on lifecycles"
 date:   2020-06-24 07:30:00 +0100
 tags:  development modular-design elixir
 ---
