@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Decomposing domain models based on lifecycles"
+title:  "Decomposing domain models based on life cycles"
 date:   2020-06-24 07:30:00 +0100
 tags:  development modular-design elixir
 ---
@@ -10,7 +10,7 @@ Unfortunately it's also one of the hardest. We all know that modular design is a
 good thing. But how do we make our systems more modular?
 
 There's no easy or right answer here. What we can do instead is to gather a nice
-set of heuristics that allow you to try different decomposition patterns and see
+set of heuristics that allows you to try different decomposition patterns and see
 what works.
 
 Let's see one of the possible ways of decomposing your domain model.
@@ -130,7 +130,7 @@ Some of the problems with this approach:
   features are added.
 - Adding new states in the middle of the business flow is hard - so is
 rearranging and modifying the existing flow.
-- A lot of defensive programming in necessary to prevent incorrect states.
+- A lot of defensive programming is necessary to prevent incorrect states.
 
 ## Decompose by lifecycle
 
@@ -237,8 +237,8 @@ article)
 
 ### Application Layer approach
 
-In Application Layer approach, you have two layers: domain layer and application
-layer. The domain layer consist of the isolated modules we already discussed.
+In the Application Layer approach, you have two layers: domain layer and application
+layer. The domain layer consists of the isolated modules we already discussed.
 The application layer is responsible for tying the domain models into a full
 business flow.
 
@@ -262,7 +262,7 @@ end
 
 ### Event-driven / PubSub approach
 
-With event-driven approach, you don't have a separate layer that connects the
+With an event-driven approach, you don't have a separate layer that connects the
 domain modules. Instead, you use a PubSub mechanism (synchronous or
 asynchronous) to pass events between the modules.
 
@@ -270,8 +270,8 @@ asynchronous) to pass events between the modules.
 
 ## Tips for decomposing
 
-- The `state` field in the anemic model correspond closely to the new
-  decomposition. Every time I see a `state` field on some model, I think if it
+- The `state` field in the anemic model corresponds closely to the new
+  decomposition. Every time I see a `state` field on some model, I wonder whether it
   should be split into separate models.
 - Look for times when the system switches the actor it interacts with. In our
   example, sometimes the system interacts with the client, sometimes it waits
