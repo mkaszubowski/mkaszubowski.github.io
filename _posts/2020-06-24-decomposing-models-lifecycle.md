@@ -300,3 +300,6 @@ Since there's a lot more to say about this topic, I'm looking forward to writing
 more about it in the future. If you want to read about it more, please follow me on
 Twitter ([@mkaszubowski94](https://twitter.com/mkaszubowski94)) or sign up to
 the newsletter below.
+
+**I'd love to hear your thoughts and comments. Please respond to [this tweet](https://twitter.com/mkaszubowski94/status/1275750574407979008)
+ if you'd like to talk!**
