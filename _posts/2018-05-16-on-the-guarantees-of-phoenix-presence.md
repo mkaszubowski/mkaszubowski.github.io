@@ -3,6 +3,7 @@ layout: post
 title:  "On the guarantees of Phoenix Presence"
 date:   2018-05-16 21:47:57 +0100
 tags: elixir distributed-systems
+canonical_url: https://medium.com/appunite-edu-collection/on-guarantees-of-phoenix-presence-a4a23c24667f
 ---
 
 [Phoenix Presence](https://hexdocs.pm/phoenix/Phoenix.Presence.html) is a feature that allows you to track processes across the cluster. The most common use case is tracking which users are online in a distributed environment without relying on a single source of truth.

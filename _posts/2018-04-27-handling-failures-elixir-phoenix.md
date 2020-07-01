@@ -3,6 +3,7 @@ layout: post
 title:  "Handling failures in Elixir and Phoenix"
 date:   2018-04-27 14:00:00 +0100
 tags: elixir
+canonical_url: https://medium.com/appunite-edu-collection/handling-failures-in-elixir-and-phoenix-12b70c51314b
 ---
 
 Fault tolerance is one of the most often mentioned reasons for

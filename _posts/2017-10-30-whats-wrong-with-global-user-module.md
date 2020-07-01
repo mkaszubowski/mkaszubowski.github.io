@@ -3,6 +3,7 @@ layout: post
 title:  "What’s wrong with a global User module?"
 date:   2017-10-30 21:47:57 +0100
 tags: elixir modular-design
+canonical_url: https://medium.com/appunite-edu-collection/whats-wrong-with-a-global-user-module-ed7ed013a519
 ---
 
 This post is inspired by a code review I’ve done at work today. We generally try
