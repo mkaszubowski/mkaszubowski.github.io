@@ -76,3 +76,7 @@ Instead, find a skill that could improve the value of your work by 50% or 100%. 
 ## References
 
 - [Range](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484) by David Epstein is a great read on the power of generalists. It challanges the theory that the only way to achieve success is to spent a lot of time specialising in a single field.
+
+---
+
+Originally published on [AppUnite Blog](https://appunite.com/blog/become-a-pi-shaped-developer)
