@@ -31,6 +31,7 @@ your design:
   implementation of its dependencies?
 - Are you able to describe the purpose of the module in one simple sentence?
 
+
 ## Interested in modular design?
 - [Decomposing domain models based on
   lifecycles](/2020/06/24/decomposing-models-lifecycle.html) shows an example
