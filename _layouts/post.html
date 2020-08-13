@@ -35,14 +35,16 @@ layout: default
   {%- include mailchimp.html -%}
 </div>
 
-<div id="related">
-  <h3>Ready for another article?</h3>
-  <ul class="posts">
-    {% for post in site.related_posts limit:3 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+{%- if page.skip_related != true -%}
+  <div id="related">
+    <h3>Ready for another article?</h3>
+    <ul class="posts">
+      {% for post in site.related_posts limit:3 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
 
 
 <a href="/">Back to the blog</a>
