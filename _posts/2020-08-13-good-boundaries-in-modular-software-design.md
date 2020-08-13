@@ -33,7 +33,7 @@ your design:
 
 ## Interested in modular design?
 - [Decomposing domain models based on
-  lifecycles](/2020/06/24/ecomposing-models-lifecycle.html) shows an example
+  lifecycles](/2020/06/24/decomposing-models-lifecycle.html) shows an example
   software decomposition, which can be applied to many real-life domains.
 - [The benefits of modular software
   design](/2020/06/02/modular-software-design-benefits.html) and [The costs of
