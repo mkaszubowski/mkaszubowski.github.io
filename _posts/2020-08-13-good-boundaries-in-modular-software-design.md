@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to regognize good boundaries in modular software design"
+title:  "How to recognize good boundaries in modular software design"
 date:   2020-08-13 08:30:00 +0100
 tags:  development modular-design
 skip_related: true
