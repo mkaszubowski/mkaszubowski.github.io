@@ -31,6 +31,10 @@ your design:
   implementation of its dependencies?
 - Are you able to describe the purpose of the module in one simple sentence?
 
+## What would you add?
+
+If you would add something to that list, have some comments, feedback, or just want to talk, **please respond to [this tweet](https://twitter.com/mkaszubowski94/status/1296768620958298112)**. 
+
 
 ## Interested in modular design?
 - [Decomposing domain models based on
