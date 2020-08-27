@@ -81,4 +81,4 @@ If you don't agree with this article, though, please reach out! I would love to 
 
 ## **Related**
 
-- You might want to look at my article about [Enabling Constraints](https://appunite.com/blog/enabling-constraints-in-software-development) as an alternative approach. Sometimes setting the rule of "no code review allowed" (even as an experiment) might be a good way of finding and solving problems really fast.
+- You might want to look at my article about [Enabling Constraints](https://mkaszubowski.com/2020/05/11/enabling-constraints-in-software-development.html) as an alternative approach. Sometimes setting the rule of "no code review allowed" (even as an experiment) might be a good way of finding and solving problems really fast.
