@@ -78,6 +78,16 @@ a.post-link, a.post-link {
     text-align: center;
   }
 
+  .with-caption {
+    margin-bottom: 5px;
+  }
+
+  .with-caption + .image-caption {
+    color: #3c3c3c;
+    text-align: center;
+    font-size: 0.85em;
+  }
+
   .tip {
     background: #ffffd9;
     border: 1px dashed #9da02f;
