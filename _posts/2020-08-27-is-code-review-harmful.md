@@ -73,7 +73,7 @@ I believe these are low hanging fruit you can start doing with low cost and with
 
 ## **Summary**
 
-Trust is essential for good-performing teams. Processes and tools can be useful, but if we rely on them too much (and can't imagine working without them), it's always a sign of some underlying issues.
+Trust is essential for well-performing teams. Processes and tools can be useful, but if we rely on them too much (and can't imagine working without them), it's always a sign of some underlying issues.
 
 I hope you will try some of the things I mentioned and focus on building great fundamentals for your team.
 
