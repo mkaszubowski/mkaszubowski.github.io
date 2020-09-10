@@ -31,9 +31,12 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-.site-title > img {
-  width: 80%;
-  max-width: 300px;
+.site-title {
+  font-family: 'Lora';
+}
+
+.site-title:hover {
+  text-decoration: none;
 }
 
 .site-footer a {
