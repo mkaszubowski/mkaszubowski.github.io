@@ -5,6 +5,7 @@ style: talks
 permalink: /talks/
 ---
 
+- Thinking Elixir Podcast - Decomposing models based on lifecycle - [Audio & Notes](https://thinkingelixir.com/podcast-episodes/009-decomposing-models-with-maciej-kaszubowski/)
 - Error-free Elixir (CodeElixir LDN 2019) -
 [Video](https://www.youtube.com/watch?v=PwfOARkogDI)/
 [Slides](https://speakerdeck.com/mkaszubowski/error-free-elixir)
