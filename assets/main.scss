@@ -100,8 +100,9 @@ a.post-link, a.post-link {
 
   .tip {
     background: #ffffd9;
-    border: 1px dashed #9da02f;
-    padding: 10px;
+    border: 1px solid #f1f56e;
+    border-radius: 7px;
+    padding: 15px;
     font-size: 0.85em;
     line-height: 1.3em;
   }
@@ -155,4 +156,14 @@ h1, h2, h3 {
 
 .talks {
   font-size: 1.1em;
+}
+
+.about-photo {
+  float: left;
+  max-width: 175px;
+  margin-right: 25px;
+
+  img {
+    border-radius: 50%;
+  }
 }

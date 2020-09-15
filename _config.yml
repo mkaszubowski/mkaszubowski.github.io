@@ -20,7 +20,11 @@
 
 title: Maciej Kaszubowski
 email: maciej@mkaszubowski.pl
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
+  I’m Maciej Kaszubowski and I’m a software developer. I specialize in backend development with big focus on Domain Driven Design,
+  modular software design, Elixir/OTP ecosystem, and distributed systems.
+
+  I draw a lot of inspiration from Systems Thinking and Complexity Theory.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mkaszubowski.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mkaszubowski94
