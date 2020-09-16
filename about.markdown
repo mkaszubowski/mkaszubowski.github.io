@@ -26,3 +26,4 @@ talk about things like:
 - Understanding the problem domain and the business value of the systems we build
 - Building great teams and constantly improving the way they work
 - Navigating the complexity involved in creating great products
+- Distilling common product development practices down to the basic building blocks and first principles
