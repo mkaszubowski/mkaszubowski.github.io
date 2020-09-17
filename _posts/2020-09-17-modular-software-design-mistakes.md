@@ -147,3 +147,5 @@ So don't overthink it. Don't look for the perfect solution. Don't be paralyzed b
 - Michael Nygard wrote a great post about the [Entity Service Antipattern](https://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/)
 - [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout is the source of the concept of deep vs shallow interfaces and a collection of many other easy-to-follow design heuristics. Highly recommended.
 - If you need some inspiration and a specific modelling technique, check out my post: [Decomposing domain models based on lifecycle](https://mkaszubowski.com/2020/06/24/decomposing-models-lifecycle.html)
+
+**If you have any comments, please respond to [this tweet](https://twitter.com/mkaszubowski94/status/1306585074398375936).**
