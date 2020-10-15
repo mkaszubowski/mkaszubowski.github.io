@@ -190,7 +190,7 @@ Now that we have all the pieces ready, we need to make sure that they work toget
 
 ```elixir
 def Bookstore.Vendor do
-	def add_product(command) do
+  def add_product(command) do
     # Error handling and transactions omitted for brevity
     {:ok, product} = ProductCatalog.add_product(command)
     :ok = set_availability(product, command)
