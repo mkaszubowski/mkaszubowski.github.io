@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why and how to avoid 'type' fields on your domain models"
-date:   2020-10-15 07:30:00 +0100
+date:   2020-10-15 11:30:00 +0100
 tags:  development modular-design elixir domain-driven-design
 skip_related: true
 ---
