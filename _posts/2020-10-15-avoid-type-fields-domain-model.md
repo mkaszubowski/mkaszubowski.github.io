@@ -269,6 +269,8 @@ If you remember one thing from this article:
 
 **If you see a "type" field on your domain model, you can probably split that model into multiple contexts and use composition to make the design easier to understand and change in the future.**
 
+If you have any comments, please reach out by replying to [this tweet](https://twitter.com/mkaszubowski94/status/1317082475278028802).
+
 ## References
 
 - ["The art of destroying software"](https://vimeo.com/108441214) by Greg Young talks about composing software from small pieces that can be easily replaced and deleted. Watching that may help you understand some of the benefits of the approach from this article.
