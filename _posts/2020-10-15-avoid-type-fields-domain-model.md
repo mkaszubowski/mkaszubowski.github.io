@@ -172,7 +172,7 @@ In `Accounting` the question we want to answer is: What is the VAT rate for this
 
 ![accounting context](/assets/img/type-field/accounting.png)
 
-For `Availability` context the question is: Can we purchase X products? We can use a single table and use `-1` as a sign that there's no limit (think ebooks, or in-demand printing). Is it perfect? Of course not. But encapsulating the data model behind an interface allows us to change it easily later if we want to make it more descriptive.
+For `Availability` context the question is: Can we purchase X products? We can use a single table and use `-1` as a sign that there's no limit (think ebooks, or on-demand printing). Is it perfect? Of course not. But encapsulating the data model behind an interface allows us to change it easily later if we want to make it more descriptive.
 
 ![availability context](/assets/img/type-field/availability.png)
 
