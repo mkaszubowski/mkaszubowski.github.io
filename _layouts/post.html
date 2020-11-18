@@ -4,7 +4,6 @@ layout: default
 <div class="post">
 
 <header class="post-header">
-  <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
   <p class="post-meta">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -24,6 +23,7 @@ layout: default
           {%- if forloop.last == false %}, {% endif -%}
       {% endfor %}
     {%- endif -%}</p>
+  <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
 </header>
 
 <div id="post" class="post-content">
@@ -32,7 +32,7 @@ layout: default
 </div>
 
 <div id="subscribe">
-  {%- include mailchimp.html -%}
+  {%- include convertkit.html -%}
 </div>
 
 {%- if page.skip_related != true -%}
@@ -45,8 +45,5 @@ layout: default
     </ul>
   </div>
 {% endif %}
-
-
-<a href="/">Back to the blog</a>
 
 </div>
