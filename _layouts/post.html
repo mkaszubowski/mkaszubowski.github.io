@@ -24,6 +24,11 @@ layout: default
       {% endfor %}
     {%- endif -%}</p>
   <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+  {%- if page.reading_time -%}
+    <div class="reading-time">
+      Reading time: {{ page.reading_time }} minutes.
+    </div>
+  {%- endif -%}
 </header>
 
 <div id="post" class="post-content">

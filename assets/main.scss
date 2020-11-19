@@ -11,11 +11,15 @@
 }
 
 .post p, .post ul {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 
   li > ul {
     margin-top: 15px;
   }
+}
+
+.post p.post-meta {
+  margin-bottom: 5px;
 }
 
 li {
@@ -170,4 +174,9 @@ h1, h2, h3 {
   img {
     border-radius: 50%;
   }
+}
+
+.reading-time {
+  font-style: italic;
+  font-size: 0.85em;
 }
