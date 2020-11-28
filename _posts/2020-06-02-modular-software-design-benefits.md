@@ -3,6 +3,7 @@ layout: post
 title:  "The benefits of modular software design"
 date:   2020-06-02 07:30:00 +0100
 tags:  development modular-design
+description: A list of desirable software characteristics that can be achieved by applying modular software design.
 ---
 
 Modular software design can be briefly described as splitting a software system into multiple well-isolated, autonomous parts (modules) that are loosely coupled with each other.
