@@ -23,7 +23,7 @@ What are the benefits?
 - It unblocks your team members faster.
 - It encourages you to use feature flags.
 - It reduces the time spent on code review (making code review easier)
-- It reduces the chances of marge conflicts.
+- It reduces the chances of merge conflicts.
 - You almost never have to deploy someone else's code (and you never have to
   deploy any code written by a person currently on vacation) and be surprised
   that you missed some piece of configuration or data migration.
