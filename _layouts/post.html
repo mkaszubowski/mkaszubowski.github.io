@@ -26,7 +26,9 @@ layout: default
   <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
   {%- if page.reading_time -%}
     <div class="reading-time">
-      Reading time: {{ page.reading_time }} minutes.
+      Reading time: {{ page.reading_time }}
+      {%- if page.reading_time == 1 -%}&nbsp;minute.{%- endif -%}
+      {%- if page.reading_time > 1 -%}&nbsp;minutes.{%- endif -%}
     </div>
   {%- endif -%}
 </header>
