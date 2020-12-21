@@ -5,6 +5,8 @@ date: 2020-08-27 11:30:00 +0100
 tags: teams
 skip_related: true
 canonical_url: https://appunite.com/blog/is-code-review-harmful
+description: Use code review for collaboration, not verification.
+excerpt: Code review is a great tool. But when it's mandatory, it can hide some problems. In this post, I explore how we can improve the team effectiveness by fixing the underlying problems and using code review for collaboration, not verification.
 ---
 
 Ok, this might be controversial. **If code review in your team is mandatory, I think it causes more harm than benefits in the long run**.

@@ -4,6 +4,7 @@ title:  'How to improve software delivery - advice from "Accelerate" by Nicole F
 date:   2020-11-05 11:30:00 +0100
 tags:  teams
 skip_related: true
+excerpt: Six learnings and actionable advice from “Accelerate” by Nicole Forsgren. Key takeway - you can use technical practices to improve organisational performance.
 ---
 
 Some learnings and actionable advice from ["Accelerate"](https://www.goodreads.com/book/show/35747076-accelerate) by Nicole Forsgren.

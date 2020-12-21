@@ -5,6 +5,7 @@ date:   2020-12-11 10:30:00 +0100
 tags: development process
 reading_time: 1
 description: Learn how deploying code every day can improve your system and your team efficiency.
+excerpt: Learn how deploying code every day can improve your system and your team efficiency. A short list - one minute read.
 ---
 
 Deploying your code every day is one of the best software delivery practices I

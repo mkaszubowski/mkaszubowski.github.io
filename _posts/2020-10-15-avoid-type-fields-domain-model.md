@@ -4,6 +4,8 @@ title:  "Why and how to avoid 'type' fields on your domain models"
 date:   2020-10-15 11:30:00 +0100
 tags:  development modular-design elixir domain-driven-design
 skip_related: true
+excerpt: If you see a "type" field on your domain model, you can probably split that model into multiple contexts and use composition to make the design easier to understand and change in the future. This post describes a practical example of such decomposition.
+
 ---
 
 Some time ago I wrote about [decomposing domain models to avoid 'state'

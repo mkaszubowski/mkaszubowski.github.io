@@ -4,6 +4,8 @@ title:  "How to get less feedback"
 date: 2020-08-20 11:30:00 +0100
 tags: teams
 canonical_url: https://appunite.com/blog/how-to-get-less-feedback
+description: How to prevent people from sharing their feedback? What would make people less honest and open?
+excerpt: How to prevent people from sharing their feedback? What would make people less honest and open? By inversion thinking, avoiding those things is the best way to encourage more feedback in your team or organisation.
 ---
 
 How to prevent people from sharing their feedback? What would make people less
@@ -42,8 +44,8 @@ One more closing thought. Despite what all the articles about the "feedback
 culture" say, **receiving negative feedback will always be hard**. Hearing about
 what you did wrong can be really uncomfortable - even if it's good for you in
 the long run. *Giving* negative feedback is probably even harder. So don't be
-fooled by people claiming that by creating a "feedback culture" you can make
-any of it easy.
+fooled by people claiming that by creating a "feedback culture" you can make any
+of it easy.
 
 ## **References**
 

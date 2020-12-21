@@ -3,6 +3,11 @@ layout: post
 title:  "Decomposing domain models based on lifecycles"
 date:   2020-06-24 07:30:00 +0100
 tags:  development modular-design elixir
+description: Good decomposition is one of the most important parts of software design. In this post, I describe a practical and real-life example of decomposition by following the lifecycle of a domain entity.
+excerpt: >-
+  Good decomposition is one of the most important parts of software design.
+  In this post, I describe a practical and real-life example of
+  decomposition by following the lifecycle of a domain entity.
 ---
 
 Good decomposition is one of the most important parts of software design.

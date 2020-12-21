@@ -4,7 +4,8 @@ title:  "Domain-driven error handling. Don't handle errors - prevent them."
 date:   2020-11-18 11:30:00 +0100
 tags:  development modular-design elixir domain-driven-design
 reading_time: 7
-description: Four techniques that improve error handling in your system. Use domain-driven approach to design the software with failures in mind.
+description: Four techniques that improve error handling in your system. Use domain-driven approach and design software with failures in mind.
+excerpt: Success and failure are not binary. The post describes four techniques that improve error handling in your system by embracing the complexity of the real world. Use domain-driven approach and design software with failures in mind.
 ---
 
 Our software pretends that success and error are binary. `:ok` or `:error`, `2XX` or `4XX/5XX`, something or `nil`, `Some` or `None`, `0` or `1`. Nothing in between.

@@ -6,6 +6,7 @@ tags:  development modular-design
 skip_related: true
 canonical_url: https://appunite.com/blog/modular-software-design-mistakes
 description: Good modularity is one of the goals of software design. Knowing these 10 common mistakes will help you avoid them in your software.
+excerpt: Good modularity is one of the goals of software design. Here are 10 common things that increase coupling and might hurt modularity.
 ---
 
 ## **What's the goal of modular software design?**

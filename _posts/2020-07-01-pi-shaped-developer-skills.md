@@ -4,6 +4,8 @@ title: "Become a pi-shaped developer"
 date:  2020-07-01 07:30:00 +0100
 tags: career
 canonical_url: https://appunite.com/blog/become-a-pi-shaped-developer
+description: Being in the top 1% of any field is extremely hard. But you can be really successful if you are in the top 10% of two or three different areas.
+excerpt: Being in the top 1% of any field is extremely hard. But you can be really successful if you are in the top 10% of two or three different areas.
 ---
 
 A **T-shaped person** is someone who has deep expertise in a single topic, but also broad general knowledge.

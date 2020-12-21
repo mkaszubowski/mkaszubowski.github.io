@@ -4,6 +4,8 @@ title:  "How to recognize good boundaries in modular software design"
 date:   2020-08-13 08:30:00 +0100
 tags:  development modular-design
 skip_related: true
+description: Is the boundary for your module right? Here are some things to look at to assess your designs.
+excerpt: Is the boundary for your module right? Is the module coherent and loosely coupled with the rest of the system? Will it be easy to change? Here are some things to look at to assess your design.
 ---
 
 Is the boundary for your module* right? Is the module coherent and loosely
@@ -33,7 +35,7 @@ your design:
 
 ## What would you add?
 
-If you would add something to that list, have some comments, feedback, or just want to talk, **please respond to [this tweet](https://twitter.com/mkaszubowski94/status/1296768620958298112)**. 
+If you would add something to that list, have some comments, feedback, or just want to talk, **please respond to [this tweet](https://twitter.com/mkaszubowski94/status/1296768620958298112)**.
 
 
 ## Interested in modular design?
