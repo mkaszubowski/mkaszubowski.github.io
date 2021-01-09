@@ -111,12 +111,17 @@ a.post-link, a.post-link {
   }
 
   .tip {
-    background: #ffffd9;
-    border: 1px solid #f1f56e;
+    background: #fff9e8;
+    border: 1px solid #f3ecd7;
     border-radius: 7px;
     padding: 15px;
-    font-size: 0.85em;
+    font-size: 0.9em;
     line-height: 1.3em;
+  }
+
+  .img-60 {
+    width: 60%;
+    margin: 0 auto;
   }
 
   .highlighter-rouge .highlight, code {
