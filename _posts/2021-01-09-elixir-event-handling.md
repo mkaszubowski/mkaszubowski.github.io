@@ -5,6 +5,7 @@ date:   2021-01-09 10:30:00 +0100
 tags: development modular-design elixir
 reading_time: 9
 description: Learn six different ways to implement event handling in Elixir and when to use each of them.
+image: /assets/img/elixir-event-handling/cqrs.png
 excerpt: |
   Events are easy to grasp as a concept for integrating different parts of the system. But implementating event handling can be much tricker in practice. Choosing a wrong way can be a serious mistake.
 
