@@ -167,7 +167,7 @@ You can modify the following approach to limit the number of queries done by pol
 Once you use a lot of events, or you have multiple services, you will probably use a separate message queue for events. Examples include:
 
 - RabbitMQ
-- Amazon SQA
+- Amazon SQS
 - Google Cloud PubSub
 - Kafka
 - EventStore
