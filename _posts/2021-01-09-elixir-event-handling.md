@@ -252,7 +252,7 @@ If you do some work in the background, the clients can start sending the next re
 
 ## Conclusions
 
-There is no silver bullet. Dealing with events is a challange and each way has its trade-offs.
+There is no silver bullet. Dealing with events is a challenge and each way has its trade-offs.
 
 It's tempting to treat it as a purely technical problem. But it's not. The trade-offs of each solution can have a serious impact on the stakeholders of the system. Before you make any decision, you understand the constraints and context of your problem domain.
 
