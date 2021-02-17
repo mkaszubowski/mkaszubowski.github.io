@@ -5,7 +5,6 @@ date: 2021-02-16 11:30:00 +0100
 tags: elixir development
 reading_time: 2
 description: How to process large amounts of data at once using Ecto and Repo.stream/1
-image: /assets/img/elixir-event-handling/cqrs.png
 excerpt: |
   This short post shows a really easy way to process large-ish (max few hours of processing)
   datasets using Ecto's Repo.stream/1.
