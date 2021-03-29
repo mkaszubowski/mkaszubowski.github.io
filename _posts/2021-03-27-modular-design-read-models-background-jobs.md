@@ -121,7 +121,7 @@ This can be a mess.
 
 An isolated table used for one purpose only allows us to fine-tune the performance, measure the execution times precisely, limit the number of entries, and use a minimal set of DB indexes.
 
-When notifications become slow, we know exactly where to lock for the cause.
+When notifications become slow, we know exactly where to look for the cause.
 
 It's not only about performance, though. By isolating a part of the system, we make that part simpler. **By reducing the impact of decisions to a single module, we make it easier for us to deal with most problems.**
 
