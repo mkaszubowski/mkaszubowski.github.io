@@ -6,8 +6,8 @@
 @import url('https://fonts.googleapis.com/css?family=Lora|PT+Sant&display=swap');
 
 .wrapper {
-  max-width: -webkit-calc(750px - (30px * 2));
-  max-width: calc(750px - (30px * 2));
+  max-width: -webkit-calc(800px - (30px * 2));
+  max-width: calc(800px - (30px * 2));
 }
 
 .header-wrapper {
@@ -33,7 +33,7 @@ li {
 }
 
 body {
-  font-size: 1.20em;
+  font-size: 1.1em;
   color: #333;
   line-height: 1.6em;
   font-weight: 400;
@@ -111,12 +111,13 @@ a.post-link, a.post-link {
   }
 
   .tip {
-    background: #fff9e8;
+    background: #fbebc9;
     border: 1px solid #f3ecd7;
-    border-radius: 7px;
-    padding: 15px;
+    border-radius: 3px;
+    padding: 20px;
     font-size: 0.9em;
     line-height: 1.3em;
+    margin: 30px 0;
   }
 
   .img-60 {
@@ -182,7 +183,7 @@ h1, h2, h3 {
 }
 
 .post-excerpt {
-  font-size: 0.9em;
+  font-size: 1em;
   margin-bottom: 0;
 }
 
