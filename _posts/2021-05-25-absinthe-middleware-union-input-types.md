@@ -196,7 +196,7 @@ mutation do
     arg :location, non_null(:string)
     arg :animals, list_of(non_null(:animal_input))
 
-    middleware BlvdGraph.Middleware.OneOfInputValidation, [:animals]
+    middleware MyGraph.Middleware.OneOfInputValidation, [:animals]
 
     resolve &AnimalDropoff.resolve/2
   end
@@ -210,7 +210,7 @@ similar to [get_in/2](https://hexdocs.pm/elixir/Kernel.html#get_in/2):
 field :log_animal_drop_off, :shelter do
   arg :input, non_null(:animal_drop_off_input)
 
-  middleware BlvdGraph.Middleware.OneOfInputValidation, [:input, :animals]
+  middleware MyGraph.Middleware.OneOfInputValidation, [:input, :animals]
 
   resolve &AnimalDropoff.resolve/2
 end
