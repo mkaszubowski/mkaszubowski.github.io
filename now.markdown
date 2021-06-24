@@ -16,5 +16,5 @@ What am I doing now?
 
 Location: Poznań, Poland
 
-Last update: 17th October 2020<br/> Inspired by:
+Last update: March 8th, 2021<br/> Inspired by:
 [nownownow.com](https://nownownow.com/about)
