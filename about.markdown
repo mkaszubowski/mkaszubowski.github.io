@@ -7,10 +7,9 @@ permalink: /about/
 {: .about-photo}
 ![profile photo](/assets/img/profile-photo.jpg)
 
-I'm Maciej Kaszubowski and I'm a software developer. I specialize in backend
+I'm Maciej Kaszubowski and I'm a software engineer. I specialize in backend
 development with big focus on **Domain Driven Design**, **modular software design**,
 **Elixir/OTP ecosystem**, and distributed systems.
-
 
 I believe in holistic approach to problem solving and software development.
 My job and my goal is to build amazing products and that requires a great team which takes

@@ -6,7 +6,7 @@ permalink: /now/
 
 What am I doing now?
 
-- Senior Software Engineer at [Boulevard](https://www.joinblvd.com). 
+- Principal Engineer at [Boulevard](https://www.joinblvd.com). 
 - Learning about Complex Adaptive Systems and trying to apply those lessons to
   product development and team building.
 - Writing about software design, especially modularization and Domain Driven
@@ -16,5 +16,5 @@ What am I doing now?
 
 Location: Poznań, Poland
 
-Last update: March 8th, 2021<br/> Inspired by:
+Last update: April 10th, 2023<br/> Inspired by:
 [nownownow.com](https://nownownow.com/about)
